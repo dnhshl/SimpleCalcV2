@@ -5,4 +5,8 @@
     <string name="inputText2">Operand 2</string>
     <string name="istgleich">=</string>
     <string name="noInput">Bitte geben Sie zwei Operanden an</string>
+    <string name="Plus">+</string>
+    <string name="Mal">x</string>
+    <string name="Minus">-</string>
+    <string name="Durch">/</string>
 </resources>
